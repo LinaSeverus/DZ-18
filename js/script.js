@@ -115,7 +115,7 @@ console.log(newArr);
 // const arr = [1, -3, 5, 6, -7, 8, 9, -11];
 
 // const newArr = arr.filter(function (item) {
-//     return item > 0;
+//     return item % 2 === 0;
 // });
 // console.log(newArr);
 
